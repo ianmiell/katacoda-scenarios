@@ -5,6 +5,11 @@
       "course_id": "challenge-hello-world",
       "title": "Challenge Template",
       "description": "Basic template for a challenge"
+    },
+    {
+      "course_id": "challenge-week-one-1",
+      "title": "Bash in 3 Weeks - Week One Challenge One",
+      "description": "First challenge in bash course"
     }
   ]
 }
