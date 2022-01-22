@@ -1,4 +1,4 @@
 #!/bin/bash
 
-test -f /root/file_reporter.sh
-test -f /root/output
+test -f /root/task/file_reporter.sh
+test -f /root/task/output

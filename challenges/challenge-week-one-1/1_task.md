@@ -1,15 +1,15 @@
 Write a script called `file_reporter.sh` that
 
-- lists all the files under your home folder
+- lists all the files under folder `/home/task1`
 
 The output should look like this:
 
 ```
-file1 is in the folder /root
-file2 is in the folder /root/, and has 3 lines
+file1 is in the folder /root/task1
+file2 is in the folder /root/task1/subfolder1
 [...]
 ```
 
-and be stored in the file `/root/output`
+and be stored in the file `/root/task1/output`
 
 
