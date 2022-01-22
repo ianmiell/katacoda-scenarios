@@ -2,15 +2,15 @@
     "courses": [
       {
         "title": "Bash Challenges",
-        "description": "Examples of how to create Challenges on Katacoda",
+        "description": "Bash Challenges for Three-Week Bash Course",
         "id": "challenges"
       }
     ],
     "scenarios": [
       {
-        "title": "Creating Your First Katacoda Scenario",
-        "description": "Learn how to create your first Katacoda scenario",
-        "id": "create-scenario-101"
+        "title": "Week One Part One",
+        "description": "Bash Scenarios 1.1",
+        "id": "bash-scenarios-1.1"
       }
     ]
   }
