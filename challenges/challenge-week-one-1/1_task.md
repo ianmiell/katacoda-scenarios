@@ -1,4 +1,4 @@
-Write a script called `file_reporter.sh` that
+Write a script called `/root/task1/file_reporter.sh` that
 
 - lists all the files under folder `/home/task1`
 
